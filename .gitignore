@@ -1,0 +1,14 @@
+# 运行数据（含管理员秘钥、座位、留言、反馈），不要提交到公开仓库
+data.json
+data.json.tmp
+
+# 依赖与本地工具
+node_modules/
+cloudflared.exe
+*.zip
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
